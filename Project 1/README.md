@@ -7,6 +7,7 @@ The project explores different approaches to the simulation, including fixed-poi
 The core principle of this simulation is based on the relationship between the area of a circle and a square. 
 By randomly generating points within a unit square, the ratio of points that fall inside a quarter-circle inscribed in that square is an approximation of the ratio of their areas. 
 By counting the number of points inside the circle and dividing by the total number of points, we can approximate π/4. Multiplying this ratio by 4 gives us an estimate for π.
+
 <img width="804" height="432" alt="image" src="https://github.com/user-attachments/assets/349b1fb0-a9b5-4ada-9f32-746ca9688aeb" />
 
 
