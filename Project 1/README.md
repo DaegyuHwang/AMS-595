@@ -20,7 +20,7 @@ This project is divided into three main tasks, each building on the previous one
 
 -Compares the precision (percentage) to the computational cost (time) of the simulation.
 
-Task 2: Precision-Based Simulation
+###Task 2: Precision-Based Simulation
 
 -Estimates π using a while loop that continues until a specified level of precision is reached.
 
@@ -28,7 +28,7 @@ Task 2: Precision-Based Simulation
 
 -Reports the total number of iterations required to achieve the desired stability.
 
-Task 3: Reusable Function
+### Task 3: Reusable Function
 
 -Encapsulates the simulation logic from Task 2 into a reusable function named compute_pi.
 
