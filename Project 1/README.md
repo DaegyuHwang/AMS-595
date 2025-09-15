@@ -13,8 +13,11 @@ This project is divided into three main tasks, each building on the previous one
 
 Task 1: Fixed-Point Simulation
 -Estimates π using a fixed number of random points (10,000) inside a for loop.
+
 -Calculates the deviation and absolute deviation from the true value of π at each step.
+
 -Plots the convergence of the computed value of π.
+
 -Compares the precision (percentage) to the computational cost (time) of the simulation.
 
 Task 2: Precision-Based Simulation
