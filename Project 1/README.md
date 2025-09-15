@@ -2,6 +2,7 @@
 
 This repository contains MATLAB code that estimates the value of π using the Monte Carlo method.
 The project explores different approaches to the simulation, including fixed-point and precision-based termination, and packages the final algorithm into a reusable function.
+In the Project1 Report-David Hwang.pdf file, you can see the plots of the simulation.
 
 ### #Methodology
 The core principle of this simulation is based on the relationship between the area of a circle and a square. 
