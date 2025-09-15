@@ -11,7 +11,7 @@ By counting the number of points inside the circle and dividing by the total num
 ### #Features
 This project is divided into three main tasks, each building on the previous one.
 
-Task 1: Fixed-Point Simulation
+### Task 1: Fixed-Point Simulation
 -Estimates π using a fixed number of random points (10,000) inside a for loop.
 
 -Calculates the deviation and absolute deviation from the true value of π at each step.
