@@ -20,7 +20,7 @@ This project is divided into three main tasks, each building on the previous one
 
 -Compares the precision (percentage) to the computational cost (time) of the simulation.
 
-###Task 2: Precision-Based Simulation
+### Task 2: Precision-Based Simulation
 
 -Estimates π using a while loop that continues until a specified level of precision is reached.
 
@@ -42,4 +42,13 @@ This project is divided into three main tasks, each building on the previous one
 
 
 ### #How to Use
+Open the Project_1.m file in MATLAB.
+
+To run the simulation, simply call the function from the MATLAB Command Window, providing your desired precision level as the input argument.
+
+Matlab
+
+% Example: Run the simulation with a precision of 0.0001
+result = compute_pi(0.0001);
+The program will automatically generate two plots and display the final computed value and the number of iterations completed.
 
