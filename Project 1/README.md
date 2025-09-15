@@ -21,15 +21,23 @@ Task 1: Fixed-Point Simulation
 -Compares the precision (percentage) to the computational cost (time) of the simulation.
 
 Task 2: Precision-Based Simulation
+
 -Estimates π using a while loop that continues until a specified level of precision is reached.
+
 -The loop terminates when the gap between the maximum and minimum of the last 50 computed values of π falls below a fixed threshold (0.00005), demonstrating the Law of Large Numbers.
+
 -Reports the total number of iterations required to achieve the desired stability.
 
 Task 3: Reusable Function
+
 -Encapsulates the simulation logic from Task 2 into a reusable function named compute_pi.
+
 -The function takes a user-defined precision level as input, allowing for dynamic control over the accuracy of the result.
+
 -Plots the generated random points, differentiating between those inside and outside the quarter-circle with color.
+
 -Displays the final computed value of π both in the command window and as a text annotation on the plots.
+
 -Returns the final computed value, which can be stored in a variable.
 
 
