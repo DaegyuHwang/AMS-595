@@ -11,16 +11,15 @@ By counting the number of points inside the circle and dividing by the total num
 ### #Features
 This project is divided into three main tasks, each building on the previous one.
 
-### Task 1: Fixed-Point Simulation
+#### Task 1: Fixed-Point Simulation
 -Estimates π using a fixed number of random points (10,000) inside a for loop.
-
 -Calculates the deviation and absolute deviation from the true value of π at each step.
 
 -Plots the convergence of the computed value of π.
 
 -Compares the precision (percentage) to the computational cost (time) of the simulation.
 
-### Task 2: Precision-Based Simulation
+#### Task 2: Precision-Based Simulation
 
 -Estimates π using a while loop that continues until a specified level of precision is reached.
 
@@ -28,7 +27,7 @@ This project is divided into three main tasks, each building on the previous one
 
 -Reports the total number of iterations required to achieve the desired stability.
 
-### Task 3: Reusable Function
+#### Task 3: Reusable Function
 
 -Encapsulates the simulation logic from Task 2 into a reusable function named compute_pi.
 
