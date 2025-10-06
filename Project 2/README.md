@@ -46,7 +46,7 @@ The length of the fitted polynomial curve, $P(x)$, is calculated using integral 
 
 * The final total circumference is approximated by doubling the calculated length of the upper curve due to the fractal's symmetry.
 
-## How to Run
+## #How to Run
 
 1.  **Environment:** Ensure you have access to **MATLAB** (R2018a or newer is recommended).
 
@@ -60,7 +60,7 @@ The length of the fitted polynomial curve, $P(x)$, is calculated using integral 
 
 4.  **Output:** The script will execute the analysis steps, generate plots visualizing the boundary approximation, and display the final computed rough circumference in the Command Window.
 
-## Project Report
+## #Project Report
 
 For a detailed explanation of the math, algorithm implementation, convergence analysis, and visualization results, please refer to the uploaded report:
 
