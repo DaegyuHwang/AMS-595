@@ -1,4 +1,4 @@
-## #Monte Carlo Algorithm
+## Monte Carlo Algorithm
 
 This repository contains MATLAB code that estimates the value of π using the Monte Carlo method.
 The project explores different approaches to the simulation, including fixed-point and precision-based termination, and packages the final algorithm into a reusable function.
