@@ -49,9 +49,7 @@ The length of the fitted polynomial curve, $P(x)$, is calculated using integral 
 
 * The curve length $L$ for a function $y=P(x)$ from $x=a$ to $x=b$ is given by the integral:
     
-    $$
-    L = \int_{a}^{b} \sqrt{1 + \left(\frac{dP}{dx}\right)^2} dx
-    $$
+<img width="766" height="129" alt="image" src="https://github.com/user-attachments/assets/b39eb5f7-091d-492c-98bf-b985d1729068" />
 
 * The MATLAB function `polyder` is used to find the derivative $\frac{dP}{dx}$, and `integral` is used to compute the definite integral.
 
