@@ -52,11 +52,7 @@ The length of the fitted polynomial curve, $P(x)$, is calculated using integral 
 
 2.  **Open:** Open the main script file, `fractal_analysis.m`, in the MATLAB editor.
 
-3.  **Execute:** Run the script directly from the editor or type the file name in the MATLAB Command Window:
-
-    ```matlab
-    fractal_analysis
-    ```
+3.  **Execute:** Run the script directly from the editor
 
 4.  **Output:** The script will execute the analysis steps, generate plots visualizing the boundary approximation, and display the final computed rough circumference in the Command Window.
 
