@@ -1,4 +1,4 @@
-# Mandelbrot Set Fractal Analysis (MATLAB)
+## Mandelbrot Set Fractal Analysis (MATLAB)
 
 This repository contains MATLAB code for analyzing and approximating the rough circumference of the **Mandelbrot Set fractal**. The project implements a multi-step numerical approach, including boundary approximation, polynomial function fitting, and curve length integration.
 <img width="946" height="432" alt="image" src="https://github.com/user-attachments/assets/245a137d-1d66-494f-aeb4-aabe49d6105d" />
