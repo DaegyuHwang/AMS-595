@@ -3,20 +3,12 @@
 This repository contains MATLAB code for analyzing and approximating the rough circumference of the **Mandelbrot Set fractal**. The project implements a multi-step numerical approach, including boundary approximation, polynomial function fitting, and curve length integration.
 <img width="946" height="432" alt="image" src="https://github.com/user-attachments/assets/245a137d-1d66-494f-aeb4-aabe49d6105d" />
 
-## 🚀 Project Overview
+## #Project Overview
 
 The core objective of this project is to apply numerical methods to a chaotic mathematical entity—the Mandelbrot Set—to approximate its perimeter length, a classic problem related to the **coastline paradox** . The Mandelbrot Set is defined by the iterative complex function $f_c(z) = z^2 + c$, where $z$ remains bounded after repeated iteration.
 
-## 📁 Repository Structure
 
-The main functionality is contained within the MATLAB scripts, which implement the stages of the analysis.
-
-| File Name | Description | 
-| :--- | :--- | 
-| `fractal_analysis.m` | Main script that executes all steps (function definition, bisection, polynomial fit, integration). | 
-| `Project2 - David Hwang.pdf` | Detailed report outlining the methodology, results, and discussion for the project. | 
-
-## 📐 Methodology
+## #Methodology
 
 The approximation is carried out in four distinct stages, focusing on the upper half of the fractal boundary due to its symmetry across the real axis.
 
@@ -54,7 +46,7 @@ The length of the fitted polynomial curve, $P(x)$, is calculated using integral 
 
 * The final total circumference is approximated by doubling the calculated length of the upper curve due to the fractal's symmetry.
 
-## 🚀 How to Run
+## How to Run
 
 1.  **Environment:** Ensure you have access to **MATLAB** (R2018a or newer is recommended).
 
@@ -68,7 +60,7 @@ The length of the fitted polynomial curve, $P(x)$, is calculated using integral 
 
 4.  **Output:** The script will execute the analysis steps, generate plots visualizing the boundary approximation, and display the final computed rough circumference in the Command Window.
 
-## 📄 Project Report
+## Project Report
 
 For a detailed explanation of the math, algorithm implementation, convergence analysis, and visualization results, please refer to the uploaded report:
 
