@@ -6,15 +6,6 @@ The project explores different approaches to fundamental problem-solving, includ
 
 The attached notebook is the primary file containing all assignment instructions and code challenges.
 
-### #Core Concepts and Methodology
-
-The core principle of this assignment is to establish a strong base in Python programming for future advanced topics like data science and deep learning. The algorithmic challenge, specifically generating **Pascal's Triangle**, is used to test proficiency in control flow and iterative design.
-
-By successfully implementing these fundamental blocks, the student demonstrates readiness to handle more complex computational tasks. 
-
-[Image of Pascal's Triangle]
-
-
 
 ### #Assignment Tasks
 
