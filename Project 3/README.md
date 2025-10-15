@@ -31,13 +31,6 @@ This project is divided into three main task areas, structured for comprehensive
 
 - Focuses on the efficiency and clarity of the iterative algorithm.
 
-#### Task 3: Coding Practices and Submission
-
-- Encapsulates the solution logic into clearly defined and well-documented Python functions.
-
-- Ensures adherence to principles of good coding practice (readability, commenting, style).
-
-- Confirms the correct format and method for final submission via a GitHub repository.
 
 ### #How to Use
 
