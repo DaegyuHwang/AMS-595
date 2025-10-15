@@ -15,7 +15,6 @@ By successfully implementing these fundamental blocks, the student demonstrates 
 [Image of Pascal's Triangle]
 
 
-<img width="804" height="432" alt="image" src="https://github.com/user-attachments/assets/349b1fb0-a9b5-4ada-9f32-746ca9688aeb" />
 
 ### #Assignment Tasks
 
