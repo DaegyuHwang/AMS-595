@@ -13,7 +13,7 @@ The project is organized into the following Jupyter Notebooks:
 
 > **Note:** The dataset files (`train_catvnoncat.h5`, `test_catvnoncat.h5`) must be located in the same directory as the notebooks.
 
-## 🛠 Dependencies
+## Dependencies
 
 The following Python libraries are required to run the code:
 
@@ -23,7 +23,7 @@ The following Python libraries are required to run the code:
 * `torch` (PyTorch)
 * `torchvision`
 
-## 📝 Project Details
+## Project Details
 
 ### Question 1: Gradient Descent
 - Implemented a Gradient Descent algorithm to find the minimum of the function $f(x) = \sqrt{x^2 + 5}$.
