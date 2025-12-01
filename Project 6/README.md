@@ -67,7 +67,4 @@ Implemented a binary classifier (Cat vs. Non-Cat) using a pretrained **ResNet18*
 4. Open the `.ipynb` files using Jupyter Notebook, JupyterLab, or VS Code.
 5. Run all cells to view the results and visualizations.
 
----
-**Author:** [Your Name]
-**Course:** AMS 595 - Python
-**Date:** November 2025
+
