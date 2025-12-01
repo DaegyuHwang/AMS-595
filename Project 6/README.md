@@ -8,7 +8,7 @@ The project is organized into the following Jupyter Notebooks:
 
 * **`Project4_Questions_1_to_4.ipynb`**: Solutions for Questions 1 through 4 (Gradient Descent, Linear Regression, Logistic Regression tuning).
 * **`Question5_Part1.ipynb`**: Image classification using the original `train_catvnoncat.h5` and `test_catvnoncat.h5` datasets.
-* **`Question5_Part2.ipynb`**: Image classification using a modified dataset split based on the Student ID.
+* **`Question5_Part2.ipynb`**: Image classification 
 * **`README.md`**: Project overview and instructions.
 
 > **Note:** The dataset files (`train_catvnoncat.h5`, `test_catvnoncat.h5`) must be located in the same directory as the notebooks.
@@ -52,8 +52,7 @@ Implemented a binary classifier (Cat vs. Non-Cat) using a pretrained **ResNet18*
 
 #### Part 2: Modified Dataset (`Question5_Part2.ipynb`)
 - **Data Splitting Logic:**
-    - Based on Student ID ending in **38** (Last digit: **8**).
-    - **New Training Set:** First 160 images + 8 images = **168 images**.
+    - **New Training Set:**168 images**.
     - **New Test Set:** Remaining 41 images from the original training file.
 - The original test file is discarded.
 - Reports Training and Test accuracy.
